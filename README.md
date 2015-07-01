@@ -1,5 +1,5 @@
 # parse-storyboard-starter
-A single view Xcode project with basic Parse frameworks and initialization code already in place.
+A single view storyboard Xcode project with basic Parse frameworks and initialization code already in place.
 
 The project is a basic single-view application — no different from a blank single-view on Xcode except for the addition of the necessary libraries — except for two additions:
 
